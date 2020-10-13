@@ -1,0 +1,14 @@
+A,B,N=[1,1,5]
+f=1
+lst=list(range(N))
+i=A
+t=len(lst)
+l=1
+while(l!=0):
+    if((i+2)>t):
+        i=(i+2)%t
+    if(lst[i+2]==A):
+        print(f)
+        l=0
+    else:
+        f+=1
