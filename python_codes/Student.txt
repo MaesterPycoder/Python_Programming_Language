@@ -1,0 +1,13 @@
+========================================================================================================================================================================================================
+Mon May 18 21:01:27 2020
+Student Details:
+Student Name:Surapaneni Sai Shanmukkha
+Student Roll:1704049
+Student College Name:National Institute of Technology, Patna
+Laptop Details:
+Laptop's Name:LENOVO IdeaPad 520
+Laptop's Processor:Intel CORE i5 8th Gen,8250U
+Laptop's RAM:8GB DDR4
+Laptop's Storage:2TB HDD
+Laptop's Graphic Processor:NVIDIA GEFORCE MX150
+Laptop's Graphic RAM:2GB DDR5

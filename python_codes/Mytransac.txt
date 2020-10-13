@@ -1,0 +1,381 @@
+Enter name of the customer:gyvg
+Current Balnce=0
+Date & Time of Transaction::2019-08-05 22:32:55.001286
+options available:
+d-Deposit 
+w-Withdraw 
+e-exit
+choice:d
+amount entered=100.0Balance after Deposit:200.0
+------------------------------------------------------------------------------------------------------------
+Date & Time of Transaction::2019-08-05 22:33:00.889133
+options available:
+d-Deposit 
+w-Withdraw 
+e-exit
+choice:w
+amount entered=10.0Balance after withdrawal:180.0
+------------------------------------------------------------------------------------------------------------
+Date & Time of Transaction::2019-08-05 22:33:10.131851
+options available:
+d-Deposit 
+w-Withdraw 
+e-exit
+choice:d
+amount entered=100.0Balance after Deposit:380.0
+------------------------------------------------------------------------------------------------------------
+Date & Time of Transaction::2019-08-05 22:33:45.114245
+options available:
+d-Deposit 
+w-Withdraw 
+e-exit
+choice:w
+amount entered=280.0Insufficient Balance.Transaction cannot be proceed
+Balance after withdrawal:None
+------------------------------------------------------------------------------------------------------------
+Enter name of the customer:ffbfbtfbfhfthr
+Current Balnce=0
+Date & Time of Transaction::2019-08-05 22:38:13.003801
+options available:
+d-Deposit 
+w-Withdraw 
+e-exit
+choice:d
+amount entered=100.0Balance after Deposit:200.0
+------------------------------------------------------------------------------------------------------------
+Date & Time of Transaction::2019-08-05 22:38:17.436812
+options available:
+d-Deposit 
+w-Withdraw 
+e-exit
+choice:w
+amount entered=10.0Balance after withdrawal:180.0
+------------------------------------------------------------------------------------------------------------
+Date & Time of Transaction::2019-08-05 22:38:23.805323
+options available:
+d-Deposit 
+w-Withdraw 
+e-exit
+choice:w
+amount entered=100.0Insufficient Balance.Transaction cannot be proceed
+Balance after withdrawal:None
+------------------------------------------------------------------------------------------------------------
+Enter name of the customer:hb
+Current Balnce=0
+Date & Time of Transaction::2019-08-05 22:39:15.849945
+options available:
+d-Deposit 
+w-Withdraw 
+e-exit
+choice:d
+amount entered=100.0Balance after Deposit:200.0
+------------------------------------------------------------------------------------------------------------
+Date & Time of Transaction::2019-08-05 22:39:20.195594
+options available:
+d-Deposit 
+w-Withdraw 
+e-exit
+choice:d
+amount entered=200.0Balance after Deposit:600.0
+------------------------------------------------------------------------------------------------------------
+Enter name of the customer:ddd
+Current Balnce=0
+Date & Time of Transaction::2019-08-05 22:39:48.426368
+options available:
+d-Deposit 
+w-Withdraw 
+e-exit
+choice:d
+amount entered=100.0Balance after Deposit:200.0
+------------------------------------------------------------------------------------------------------------
+Date & Time of Transaction::2019-08-05 22:39:53.318801
+options available:
+d-Deposit 
+w-Withdraw 
+e-exit
+choice:d
+amount entered=100.0Balance after Deposit:400.0
+------------------------------------------------------------------------------------------------------------
+Enter name of the customer:hgdgd
+Current Balnce=0
+Date & Time of Transaction::2019-08-05 23:06:04.888216
+options available:
+d-Deposit 
+w-Withdraw 
+e-exit
+choice:d
+amount entered=1000.0Balance after Deposit:2000.0
+------------------------------------------------------------------------------------------------------------
+Date & Time of Transaction::2019-08-05 23:06:09.748336
+options available:
+d-Deposit 
+w-Withdraw 
+e-exit
+choice:d
+amount entered=1000.0Balance after Deposit:4000.0
+------------------------------------------------------------------------------------------------------------
+Date & Time of Transaction::2019-08-05 23:06:19.989128
+options available:
+d-Deposit 
+w-Withdraw 
+e-exit
+choice:w
+amount entered=3000.0Insufficient Balance.Transaction cannot be proceed
+Balance after withdrawal:None
+------------------------------------------------------------------------------------------------------------
+Enter name of the customer:ganesh
+Current Balnce=0
+Date & Time of Transaction::2019-11-04 22:21:51.499144
+options available:
+d-Deposit 
+w-Withdraw 
+e-exit
+choice:d
+amount entered=10.0Balance after Deposit:20.0
+------------------------------------------------------------------------------------------------------------
+Date & Time of Transaction::2019-11-04 22:21:58.415451
+options available:
+d-Deposit 
+w-Withdraw 
+e-exit
+choice: w
+amount entered=2.0------------------------------------------------------------------------------------------------------------
+Date & Time of Transaction::2019-11-04 22:22:10.690333
+options available:
+d-Deposit 
+w-Withdraw 
+e-exit
+choice:w
+amount entered=1.0Balance after withdrawal:18.0
+------------------------------------------------------------------------------------------------------------
+Enter name of the customer:santhosh
+
+Current Balnce=0
+Date & Time of Transaction::2019-11-04 22:29:47.377368
+options available:
+d-Deposit 
+w-Withdraw 
+e-exit
+choice:d
+amount entered=100.0Balance after Deposit:200.0
+----------------------------------------------------------------------------------------------------------
+Date & Time of Transaction::2019-11-04 22:29:55.409858
+options available:
+d-Deposit 
+w-Withdraw 
+e-exit
+choice:d
+amount entered=100.0Balance after Deposit:400.0
+----------------------------------------------------------------------------------------------------------
+Enter name of the customer:premchand
+
+Current Balnce=0
+Date & Time of Transaction::2019-11-04 22:36:14.615637
+options available:
+d-Deposit 
+w-Withdraw 
+e-exit
+choice:d
+amount entered=1000.0Balance after Deposit:1000.0
+----------------------------------------------------------------------------------------------------------
+Date & Time of Transaction::2019-11-04 22:36:23.520613
+options available:
+d-Deposit 
+w-Withdraw 
+e-exit
+choice:d
+amount entered=1000.0Balance after Deposit:2000.0
+----------------------------------------------------------------------------------------------------------
+Date & Time of Transaction::2019-11-04 22:36:44.455504
+options available:
+d-Deposit 
+w-Withdraw 
+e-exit
+choice:w
+amount entered=500.0Balance after withdrawal:1500.0
+----------------------------------------------------------------------------------------------------------
+Enter name of the customer:praven verma
+
+Current Balnce=0
+Date & Time of Transaction::2019-11-04 22:39:14.388381
+options available:
+d-Deposit 
+w-Withdraw 
+e-exit
+choice:d
+amount entered=1000.0Balance after Deposit:1000.0
+----------------------------------------------------------------------------------------------------------
+Date & Time of Transaction::2019-11-04 22:39:19.594531
+options available:
+d-Deposit 
+w-Withdraw 
+e-exit
+choice:d
+amount entered=1500.0Balance after Deposit:2500.0
+----------------------------------------------------------------------------------------------------------
+Date & Time of Transaction::2019-11-04 22:39:26.759497
+options available:
+d-Deposit 
+w-Withdraw 
+e-exit
+choice:d
+amount entered=2000.0Balance after Deposit:4500.0
+----------------------------------------------------------------------------------------------------------
+Date & Time of Transaction::2019-11-04 22:39:54.926806
+options available:
+d-Deposit 
+w-Withdraw 
+e-exit
+choice:d
+amount entered=500.0Balance after Deposit:5000.0
+----------------------------------------------------------------------------------------------------------
+Date & Time of Transaction::2019-11-04 22:39:59.847238
+options available:
+d-Deposit 
+w-Withdraw 
+e-exit
+choice:w
+amount entered=166.0Balance after withdrawal:4834.0
+----------------------------------------------------------------------------------------------------------
+Date & Time of Transaction::2019-11-04 22:40:05.897845
+options available:
+d-Deposit 
+w-Withdraw 
+e-exit
+choice:w
+amount entered=834.0Balance after withdrawal:4000.0
+----------------------------------------------------------------------------------------------------------
+Date & Time of Transaction::2019-11-04 22:46:03.073882
+options available:
+amount entered=1000.0Mode of transaction:DepositBalance after Deposit:1000.0
+----------------------------------------------------------------------------------------------------------
+Date & Time of Transaction::2019-11-04 22:46:28.315727
+options available:
+amount entered=1500.0Mode of transaction:DepositBalance after Deposit:1500.0
+----------------------------------------------------------------------------------------------------------
+Date & Time of Transaction::2019-11-04 22:48:15.761957
+options available:
+amount entered=11.0Mode of transaction:WithdawalSORRY! 
+ Insufficient Balance.Transaction cannot be proceed
+----------------------------------------------------------------------------------------------------------
+Date & Time of Transaction::2019-11-04 22:48:21.892491
+options available:
+amount entered=2000.0Mode of transaction:DepositBalance after Deposit:2000.0
+----------------------------------------------------------------------------------------------------------
+Enter name of the customer:kali
+
+Current Balnce=0
+Date & Time of Transaction::2019-11-04 22:49:46.004102
+options available:
+amount entered=1000.0Mode of transaction:DepositBalance after Deposit:1000.0
+----------------------------------------------------------------------------------------------------------
+Date & Time of Transaction::2019-11-04 22:49:49.488494
+options available:
+amount entered=10.0Mode of transaction:WithdawalBalance after withdrawal:990.0
+----------------------------------------------------------------------------------------------------------
+Enter name of the customer:gunnman
+
+Current Balnce=0
+Date & Time of Transaction::2019-11-04 22:51:40.321991
+options available:
+amount entered=100.0
+Mode of transaction:Deposit
+Balance after Deposit:100.0
+----------------------------------------------------------------------------------------------------------
+Date & Time of Transaction::2019-11-04 22:51:43.850118
+options available:
+amount entered=1.0
+Mode of transaction:Withdawal
+Balance after withdrawal:99.0
+----------------------------------------------------------------------------------------------------------
+Enter name of the customer:Shanmukkha
+
+Current Balnce=0
+Date & Time of Transaction::2019-12-23 11:53:25.776068
+options available:
+amount entered=432.0
+Mode of transaction:Deposit
+Balance after Deposit:432.0
+----------------------------------------------------------------------------------------------------------
+Date & Time of Transaction::2019-12-23 11:53:33.805311
+options available:
+amount entered=40000.0
+Mode of transaction:Deposit
+Balance after Deposit:40432.0
+----------------------------------------------------------------------------------------------------------
+Date & Time of Transaction::2019-12-23 11:53:39.810652
+options available:
+amount entered=2000.0
+Mode of transaction:Withdawal
+Balance after withdrawal:38432.0
+----------------------------------------------------------------------------------------------------------
+Enter name of the customer:shanmk
+
+Current Balnce=0
+Enter name of the customer:shanmk
+
+Current Balnce=0
+Enter name of the customer:shanmk
+
+Current Balnce=0
+Date & Time of Transaction::2019-12-23 11:56:34.090133
+options available:
+amount entered=40000.0
+Mode of transaction:Withdawal
+SORRY! 
+ Insufficient Balance.Transaction cannot be proceed
+----------------------------------------------------------------------------------------------------------
+Date & Time of Transaction::2019-12-23 11:56:41.275984
+options available:
+amount entered=200.0
+Mode of transaction:Deposit
+Balance after Deposit:200.0
+----------------------------------------------------------------------------------------------------------
+Enter name of the customer:shanmk
+
+Current Balnce=0
+Enter name of the customer:shanmm
+
+Current Balnce=0
+Enter name of the customer:shank
+
+Current Balnce=0
+Enter name of the customer:shank
+
+Current Balnce=0
+Date & Time of Transaction::Mon Dec 23 12:01:09 2019
+options available:
+amount entered=300.0----------------------------------------------------------------------------------------------------------
+Enter name of the customer:sjnf
+
+Current Balnce=0
+Enter name of the customer:ddg
+
+Current Balnce=0
+Enter name of the customer:ubgvs
+
+Current Balnce=0
+Enter name of the customer:fy
+
+Current Balnce=0
+Enter name of the customer:ngs
+
+Current Balnce=0
+Enter name of the customer:schgasj
+
+Current Balnce=0
+Enter name of the customer:bhsc
+
+Current Balnce=0
+Enter name of the customer:ffs
+
+Current Balnce=0
+Enter name of the customer:fef
+
+Current Balnce=0
+Date & Time of Transaction::Mon Dec 23 12:15:02 2019
+options available:
+amount entered=200.0
+Mode of transaction:Deposit
+Balance after Deposit:200.0
+----------------------------------------------------------------------------------------------------------

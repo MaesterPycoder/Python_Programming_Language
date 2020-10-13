@@ -1,0 +1,7 @@
+python is easy
+python is high level programming language
+python is interpreted language.
+python is dynamic and stong language
+matlab is very similar to python
+python is very extensible with other programming languages.
+python is fully embeddable.

@@ -1,0 +1,6 @@
+# putting backgroung image
+from PIL import ImageTk,Image
+canvas = tk.Canvas(root, width = 600, height = 400)
+imageBG = ImageTk.PhotoImage(Image.open(<location>))
+canvas.create_image(0, 0, anchor = "nw", image = imageBG)
+canvas.grid()
